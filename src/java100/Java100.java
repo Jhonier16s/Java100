@@ -8,6 +8,8 @@ public class Java100 {
         System.out.println("Hola mucho gusto");
       
          System.out.println("hola putas");
+         
+         System.out.println("Buenass");
     }
     
 }
