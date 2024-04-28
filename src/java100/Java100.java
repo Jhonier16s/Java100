@@ -7,7 +7,6 @@ public class Java100 {
     public static void main(String[] args) {
         System.out.println("Hola mucho gusto");
       
-         System.out.println("hola putas");
          
          System.out.println("Buenass");
            System.out.println("Buenasssss");
